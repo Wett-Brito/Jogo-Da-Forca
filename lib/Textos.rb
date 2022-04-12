@@ -59,7 +59,7 @@
             end
 
             def tipo_nomes
-                puts "3) Para palavras com nomes de PESSOAS"
+                puts "3) Para palavras com nomes de NOMES DE PESSOAS"
             end
 
             def tipo_digitar_escolha
